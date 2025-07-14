@@ -5,6 +5,11 @@
   font-variation-settings: "wdth" 100;
 }
 
+header {
+  background-image: url(/images/header_bg.png), url(/images/developer.png),
+    url(/images/Hero-bg.png);
+  background-size: 100%;
+}
 .text-color-orange {
   color: #fd6e0a;
 }
